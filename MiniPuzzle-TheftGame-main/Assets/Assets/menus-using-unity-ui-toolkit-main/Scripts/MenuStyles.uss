@@ -1,0 +1,60 @@
+.main-menu-button {
+    width: 300px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    -unity-font: url('project://database/Assets/Fonts/tektur%20font/Tektur-Regular.ttf?fileID=12800000&guid=b273d442281e8e0458278209254cf22d&type=3#Tektur-Regular');
+    -unity-font-definition: initial;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.49);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.main-menu-button:hover {
+    width: 300px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    -unity-font: url('project://database/Assets/Fonts/tektur%20font/Tektur-Regular.ttf?fileID=12800000&guid=b273d442281e8e0458278209254cf22d&type=3#Tektur-Regular');
+    -unity-font-definition: initial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.78);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.main-menu-button:active {
+    width: 300px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    -unity-font: url('project://database/Assets/Fonts/tektur%20font/Tektur-Regular.ttf?fileID=12800000&guid=b273d442281e8e0458278209254cf22d&type=3#Tektur-Regular');
+    -unity-font-definition: initial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+
+.unity-progress-bar__container {
+    min-height: 12px;
+    height: 12px
+}
+
+.unity-progress-bar__background {
+    background-color: rgba(0, 0, 0, 0.47);
+    border-width: 0px;
+}
+
+.unity-progress-bar__progress {
+    background-color: rgba(255, 255, 255, 0.7);
+    height: 12px;
+    margin: 0px;
+}

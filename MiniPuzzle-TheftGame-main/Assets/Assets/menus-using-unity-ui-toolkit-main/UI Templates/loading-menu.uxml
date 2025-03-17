@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/MenuStyles.uss?fileID=7433441132597879392&amp;guid=6a2fa1e605d38304a992060be44e8ac5&amp;type=3#MenuStyles" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px; align-items: flex-start;">
+        <ui:Label tabindex="-1" text="LOADING" display-tooltip-when-elided="true" style="-unity-font: url(&apos;project://database/Assets/Fonts/cherione%20font/Cherionenormal-PKXVd.ttf?fileID=12800000&amp;guid=badaf54679bcd584da3c9fd6243c21db&amp;type=3#Cherionenormal-PKXVd&apos;); -unity-font-definition: initial; font-size: 50px; padding-bottom: 0;" />
+        <ui:ProgressBar value="0" high-value="1" name="loading-progress-bar" style="width: 150px; height: auto;" />
+    </ui:VisualElement>
+</ui:UXML>

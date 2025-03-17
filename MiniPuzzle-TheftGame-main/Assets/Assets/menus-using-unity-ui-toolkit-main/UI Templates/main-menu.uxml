@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/MenuStyles.uss?fileID=7433441132597879392&amp;guid=6a2fa1e605d38304a992060be44e8ac5&amp;type=3#MenuStyles" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: center;">
+        <ui:Button text="START" display-tooltip-when-elided="true" name="start-btn" class="main-menu-button" />
+        <ui:Button text="SETTINGS" display-tooltip-when-elided="true" name="settings-btn" class="main-menu-button" />
+        <ui:Button text="QUIT" display-tooltip-when-elided="true" name="quit-btn" class="main-menu-button" />
+    </ui:VisualElement>
+</ui:UXML>
